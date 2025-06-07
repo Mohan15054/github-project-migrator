@@ -1,0 +1,6 @@
+{
+    "source_org": "",
+    "target_org": "",
+    "api_url": "https://api.github.com",
+    "graphql_url": "https://api.github.com/graphql"
+}
