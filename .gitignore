@@ -1,2 +1,5 @@
 *.json
 *.log
+*.csv
+.env
+*.pyc
